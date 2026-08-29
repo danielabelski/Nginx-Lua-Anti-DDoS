@@ -1,4 +1,4 @@
-Version:4.1
+Version: 4.1
 Date: 2026-08-29
 - Added Feature to have banned IPs flooding get their bans extended
 - Added Feature IP tracking in rate limit window is not extended on each request or to have IP rate extended
