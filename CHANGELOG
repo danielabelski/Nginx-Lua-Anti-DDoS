@@ -1,3 +1,7 @@
+Version: 5.7
+Date: 2026-09-26
+- Allow both tables or functions in script overrides
+
 Version: 5.6
 Date: 2026-09-26
 - Tables into functions to defer execution so that input vars and strings execute in order of when called.
